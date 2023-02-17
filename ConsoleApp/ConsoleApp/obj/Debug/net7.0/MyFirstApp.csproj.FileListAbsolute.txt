@@ -1,0 +1,15 @@
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.csproj.AssemblyReference.cache
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfo.cs
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/MyFirstApp.genruntimeconfig.cache
+/Users/nuggie/Library/CloudStorage/OneDrive-MediacollegeAmsterdam/SD1C/flex/m3/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
